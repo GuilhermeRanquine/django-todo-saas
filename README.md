@@ -1,26 +1,26 @@
 # Django-Todo-SaaS
 
-Este é um projeto de gerenciador de tarefas simples, construído com Django, que serve como uma base para um Software como Serviço (SaaS). O aplicativo permite que cada usuário tenha sua própria lista de tarefas, de forma segura e independente.
+This is a simple task management project, built with Django, that serves as the foundation for a Software as a Service (SaaS) application. The application allows each user to have their own task list, securely and independently.
 
-## Funcionalidades
+## Features
 
-- **Registro de Usuário:** Novos usuários podem criar uma conta.
-- **Autenticação:** Sistema de login e logout para acesso seguro.
-- **Criação de Tarefas:** Adicione novas tarefas à sua lista.
-- **Gerenciamento de Tarefas:** Marque tarefas como concluídas ou exclua-as.
-- **Responsivo e Estilizado:** Interface de usuário simples e limpa, construída com CSS.
+- **User Registration:** New users can create an account.
+- **Authentication:** Login and logout system for secure access.
+- **Task Creation:** Add new tasks to your list.
+- **Task Management:** Mark tasks as completed or delete them.
+- **Responsive and Styled:** Simple and clean user interface, built with CSS.
 
-## Tecnologias
+## Technologies
 
-- **Backend:** Python e Django
-- **Banco de Dados:** SQLite (padrão do Django)
-- **Frontend:** HTML e CSS
+- **Backend:** Python and Django
+- **Database:** SQLite (Django default)
+- **Frontend:** HTML and CSS
 
-## Como Rodar o Projeto Localmente
+## How to Run the Project Locally
 
-Siga estes passos para ter uma cópia do projeto rodando na sua máquina.
+Follow these steps to have a copy of the project running on your machine.
 
-### 1. Clone o repositório
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/GuilhermeRanquine/django-todo-saas
